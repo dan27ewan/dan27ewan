@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html>
 <head>
-   <title> Daniel Teoxon✨💗 </title>
+   <title> Daniel✨💗 </title>
    <script type="text/javascript">
    alert("Hello lalove ko!")
    alert("I hope you're doing well")
